@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+
+- In Prepare
+-- Variable selection in high dimensional data using Gibbs sampler \n
+Lizhong Chen and Guoqi Qian.
+-- Model averaging in high dimensional data via Gibbs sampler \n
+Lizhong Chen and Guoqi Qian.
+-- Improving the seasonal tropical cyclone forecast in Australian and south Pacific ocean regions by model selection and model averaging methods based on Gibbs sampling \n
+Lizhong Chen, Guoqi Qian and Yuriy Kuleshov.
+
+- Ph.D. Thesis
+-- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022.
