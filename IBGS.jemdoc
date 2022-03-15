@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{IBGS.html}
+= R package: IBGS (Iterated Blockwise Gibbs Sampler) \n
+
+- Introduction \n
+IBGS is an MCMC search algorithm designed to find the best model in the high dimensional data given a model selection criterion such as AIC, BIC and so on. Moreover, it can identify those most important covariates having the significant influence on the response. It is available on [https://github.com/lizhongc/IBGS Github].
