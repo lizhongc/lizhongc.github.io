@@ -1,13 +1,15 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications 
 
+- Journal articles
+-- Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing, 14/ (22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
+with Guoqi Qian and Yuriy Kuleshov.
+
 - In Prepare
 -- Variable selection in high dimensional data using Gibbs sampler \n
-Lizhong Chen and Guoqi Qian.
+with Guoqi Qian.
 -- Model averaging in high dimensional data via Gibbs sampler \n
-Lizhong Chen and Guoqi Qian.
--- Improving the seasonal tropical cyclone forecast in Australian and south Pacific ocean regions by model selection and model averaging methods based on Gibbs sampling \n
-Lizhong Chen, Guoqi Qian and Yuriy Kuleshov.
+with Tingjin Chu and Guoqi Qian.
 
 - Ph.D. Thesis
--- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022.
+-- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 Minerva Access]

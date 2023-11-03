@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{IBGS.html}
+= R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
+
+- Introduction \n
+We develop the new quasi-likelihood method for differential expression analysis using the exact calculation for unit deviance of Negative Binomial distribution. It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
