@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: {index.html}
 = Lizhong Chen (陈力仲) 
 
 ~~~
@@ -7,7 +7,7 @@ Lizhong Chen \n
 Research Officer \n 
 [https://www.wehi.edu.au/research/research-fields/bioinformatics Bioinformatics Division] \n
 [https://www.wehi.edu.au/ Walter and Eliza Hall Institute of Medical Research (WEHI)]  \n
-Contact: [chen.l@wehi.edu.au Email], [https://www.linkedin.com/in/lizhongc Linkedin], [https://github.com/lizhongc Github]
+Contact: [chen.l@wehi.edu.au Email], [https://www.linkedin.com/in/lizhongc Linkedin], [https://github.com/lizhongc Github], [20231103-cv.pdf CV]
 ~~~
 
 == About me
@@ -22,3 +22,22 @@ I am a research officer in [https://www.wehi.edu.au/people/gordon-smyth Prof. Go
 - Bioinformatics: limma, edgeR
 - Model Selection: optimal model in high dimension via Gibbs sampler
 - Model Averaging: preparing the candidate model set in high dimension
+
+== Publications 
+- Journal articles
+-- Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing, 14/ (22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
+with Guoqi Qian and Yuriy Kuleshov.
+- Ph.D. Thesis
+-- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 Minerva Access]
+
+== Presentations 
+- edgeR quasi-likelihood: correcting deviance for bias, 2022, WEHI Bioinformatics Divsion seminar
+- Extending edgeR for small counts and large samples, 2023, WEHI Bioinformatics Divsion seminar
+
+== Softwares
+- R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
+We develop the new quasi-likelihood method for differential expression analysis using the exact calculation for unit deviance of Negative Binomial distribution. It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
+- R package: statmod (statmod: Statistical Modeling) \n 
+We make the exact distributional calculations for unit deviances of Binomial, Poisson and Negative Binomial distributions. It is available on [https://cran.r-project.org/web/packages/statmod/index.html R-CRAN].
+- R package: IBGS (Iterated Blockwise Gibbs Sampler) \n
+IBGS is an MCMC search algorithm designed to find the best model in the high dimensional data given a model selection criterion such as AIC, BIC and so on. Moreover, it can identify those most important covariates having the significant influence on the response. It is available on [https://github.com/lizhongc/IBGS Github].

@@ -1,7 +1,0 @@
-# jemdoc: menu{MENU}{publication.html}
-= Presentations 
-
-- WEHI Bioinformatics Divsion talks
--- edgeR quasi-likelihood: correcting deviance for bias, 2022
--- Extending edgeR for small counts and large samples, 2023
-
