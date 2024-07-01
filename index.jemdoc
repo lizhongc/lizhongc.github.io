@@ -24,9 +24,12 @@ I am a research officer in [https://www.wehi.edu.au/people/gordon-smyth Prof. Go
 - Model Averaging: preparing the candidate model set in high dimension
 
 == Publications 
+- Preprint
+-- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR 4.0. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.06.25.600555 doi] \n
+-- Wang J, *Chen L*, Thijssen R, Phipson B, Speed TP. GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and biological effects. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.03.20.586030 doi] \n
+-- Chen Y, *Chen L*, Lun AT, Baldoni PL and Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 doi]\n
 - Journal articles
--- Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing, 14/ (22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
-with Guoqi Qian and Yuriy Kuleshov.
+-- Qian G, *Chen L* and Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
 - Ph.D. Thesis
 -- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 Minerva Access]
 
