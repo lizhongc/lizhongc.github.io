@@ -4,11 +4,14 @@ table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
+	font-family: "仿宋";
 }
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	/*font-family: Georgia, serif;*/
+	font-family: Consolas, FangSong;
+	/*font-family: "仿宋";*/
 	padding-bottom: 8px;
 	margin: 0;
 }
