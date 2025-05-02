@@ -9,7 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	/*font-family: Georgia, serif;*/
-	font-family: 'Consolas', Courier, monospace;
+	font-family: 'Consolas', monospace;
 	padding-bottom: 8px;
 	margin: 0;
 }
