@@ -37,19 +37,24 @@ where my main interest was homotopy theory of spheres and Lie groups.
 - Journal articles
 -- Chen Y, *Chen L*, Lun AT, Baldoni PL and Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 doi]\n
 -- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR v4, /NAR Genomics and Bioinformatics,/ 6(4), 2024. [https://doi.org/10.1093/nargab/lqae151 doi] 
--- Qian G, *Chen L* and Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
+-- Qian G\#, *Chen L*\# and Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
 - Preprint
--- Baldoni PL, *Chen L*, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.04.07.647659 doi] \n
+-- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.08.28.672983 doi]
+-- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.04.07.647659 doi] \n
 -- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR 4.0. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.06.25.600555 doi] \n
 -- Wang J, *Chen L*, Thijssen R, Phipson B, Speed TP. GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and biological effects. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.03.20.586030 doi] \n
 -- Chen Y, *Chen L*, Lun AT, Baldoni PL and Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 doi]\n
-- Ph.D. Thesis
--- Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 Minerva Access]
+- Thesis
+-- (Ph.D.) Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 \[Minerva Access\]]
+-- (M.S.) A Report on Computations of Cohomology Rings and Homotopy Groups of Lie Groups (in Chinese), Jun. 2016. [master_thesis.pdf \[PDF\]]
+- \# contribute equally
 
 == Presentations 
 - edgeR quasi-likelihood: correcting deviance for bias, 2022, WEHI Bioinformatics Divsion seminar
 - Extending edgeR for small counts and large samples, 2023, WEHI Bioinformatics Divsion seminar
-- Applying edgeR for alternative splicing analysis, 2024, WEHI Bioinformatics Divsion seminar
+- Applying edgeR for alternative splicing analysis, 2024, WEHI Bioinformatics Divsion seminar [20240423_Division_presentation.pdf \[Slides\]]
+- edgeRv4 with expanded functionality and improved support for small counts and larger datasets, 2025, EuroBioC2025 [20250917_EuroBioc.pdf \[Slides\]]
+- Analyzing paired count data using edgeR, 2025, WEHI Bioinformatics Divsion seminar [20250930_Division_presentation.pdf \[Slides\]]
 
 == Softwares
 - R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
@@ -58,7 +63,7 @@ which expands the functionality and improve the support for small counts and lar
 It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
 - R package: limma (Linear Models for Microarray and Omics Data) \n 
 We update the prior information estimation in the empirical Bayes method using the weighted lowess trend and profile likelihood.
-It is available on [https://bioconductor.org/packages/release/bioc/html/limma.html R-CRAN].
+It is available on [https://bioconductor.org/packages/release/bioc/html/limma.html R-Bioconductor].
 - R package: statmod (statmod: Statistical Modeling) \n 
 We make the exact calculations for the approximation of the first two moments of the unit deviances of Binomial, Poisson and Negative Binomial distributions. 
 It is available on [https://cran.r-project.org/web/packages/statmod/index.html R-CRAN].
@@ -70,4 +75,4 @@ It is available on [https://github.com/lizhongc/IBGS Github].
 == Supervision
 - Lei Qin, PhD (Medical Biology), University of Melbourne, co-supervised with Yunshun Chen and Gordon Smyth
 - Xueming Li, PhD (Mathematics & Statistics), University of Melbourne, co-supervised with Guoqi Qian
-- Shama Deb, Master of Science (Mathematics & Statistics), University of Melbourne, co-supervised with Gordon Smyth
+- Shama Deb, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Gordon Smyth
