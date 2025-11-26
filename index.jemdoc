@@ -35,15 +35,16 @@ where my main interest was homotopy theory of spheres and Lie groups.
 
 == Publications 
 - Journal articles
--- Chen Y, *Chen L*, Lun AT, Baldoni PL and Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 doi]\n
+-- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with limma and edgeR. /Nucleic Acids Research,/ 2025. [https://doi.org/10.1093/nar/gkaf1305 doi] \n
+-- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 doi]\n
 -- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR v4, /NAR Genomics and Bioinformatics,/ 6(4), 2024. [https://doi.org/10.1093/nargab/lqae151 doi] 
--- Qian G\#, *Chen L*\# and Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
+-- Qian G\#, *Chen L*\#, Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
 - Preprint
 -- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.08.28.672983 doi]
 -- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.04.07.647659 doi] \n
 -- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR 4.0. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.06.25.600555 doi] \n
 -- Wang J, *Chen L*, Thijssen R, Phipson B, Speed TP. GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and biological effects. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.03.20.586030 doi] \n
--- Chen Y, *Chen L*, Lun AT, Baldoni PL and Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 doi]\n
+-- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 doi]\n
 - Thesis
 -- (Ph.D.) Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 \[Minerva Access\]]
 -- (M.S.) A Report on Computations of Cohomology Rings and Homotopy Groups of Lie Groups (in Chinese), Jun. 2016. [master_thesis.pdf \[PDF\]]
@@ -73,6 +74,7 @@ Moreover, it can identify those most important covariates having the significant
 It is available on [https://github.com/lizhongc/IBGS Github].
 
 == Supervision
+- Hasini Herath, PhD (Medical Biology), University of Melbourne, co-supervised with Pedro Baldoni and Gordon Smyth
 - Lei Qin, PhD (Medical Biology), University of Melbourne, co-supervised with Yunshun Chen and Gordon Smyth
 - Xueming Li, PhD (Mathematics & Statistics), University of Melbourne, co-supervised with Guoqi Qian
 - Shama Deb, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Gordon Smyth
