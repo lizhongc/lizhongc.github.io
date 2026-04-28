@@ -63,7 +63,6 @@ where my main interest was homotopy theory of spheres and Lie groups.
 edgeR is a Bioconductor R package to perform differential expression analysis for the sequencing data like RNA-seq, ChIP-seq and ATAC-seq. 
 In edgeR v4, we develop the new quasi-likelihood method based on the quadratic mean-variance relationship that we can isolate the biological and technical variation.
 We improve the quasi-dispersion estimation by the adjusted deviance statistics and support lowly expressed counts data.
-Besides, we update the computational code from C++ to C for simple structure.
 It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
 - R package: limma (Linear Models for Microarray and Omics Data) \n 
 limma is a Bioconductor R package to perform differential expression analysis for the microarray, sequencing and omics data.
