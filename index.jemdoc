@@ -35,7 +35,8 @@ where my main interest was homotopy theory of spheres and Lie groups.
 
 == Publications 
 - Journal articles
--- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with limma and edgeR. /Nucleic Acids Research,/ 2025. [https://doi.org/10.1093/nar/gkaf1305 doi] \n
+-- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /Nucleic Acids Research,/ 54(8) 2026. [https://doi.org/10.1093/nar/gkag360 doi]
+-- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with limma and edgeR. /Nucleic Acids Research,/ 53(22) 2025. [https://doi.org/10.1093/nar/gkaf1305 doi] \n
 -- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 doi]\n
 -- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR v4, /NAR Genomics and Bioinformatics,/ 6(4), 2024. [https://doi.org/10.1093/nargab/lqae151 doi] 
 -- Qian G\#, *Chen L*\#, Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 5872. [https://doi.org/10.3390/rs14225872 doi] \n
@@ -59,18 +60,24 @@ where my main interest was homotopy theory of spheres and Lie groups.
 
 == Softwares
 - R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
-We develop the new quasi-likelihood method for differential expression analysis using the adjusted deviance statistics, 
-which expands the functionality and improve the support for small counts and larger dataset. 
+edgeR is a Bioconductor R package to perform differential expression analysis for the sequencing data like RNA-seq, ChIP-seq and ATAC-seq. 
+In edgeR v4, we develop the new quasi-likelihood method based on the quadratic mean-variance relationship that we can isolate the biological and technical variation.
+We improve the quasi-dispersion estimation by the adjusted deviance statistics and support lowly expressed counts data.
+Besides, we update the computational code from C++ to C for simple structure.
 It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
 - R package: limma (Linear Models for Microarray and Omics Data) \n 
-We update the prior information estimation in the empirical Bayes method using the weighted lowess trend and profile likelihood.
+limma is a Bioconductor R package to perform differential expression analysis for the microarray, sequencing and omics data.
+We update the estimation of the prior distribution in empirical Bayes approach by a two-steps method, combining the local moment estimates and profile likelihood estimates.
+It improves the performance when the observed degrees of freedom from the models are unequal and relatively small.
 It is available on [https://bioconductor.org/packages/release/bioc/html/limma.html R-Bioconductor].
 - R package: statmod (statmod: Statistical Modeling) \n 
-We make the exact calculations for the approximation of the first two moments of the unit deviances of Binomial, Poisson and Negative Binomial distributions. 
+statmod is a CRAN R package that is a collection of statistical tools. 
+We introduce a new function +expectedDeviance+ to provide an approximation to the expected unit deviance and degree of freedom for Poisson, Binomial, and Negative Binomial distribution, 
+which corrects the bias of chi-square distribution approximation of 1 degree of freedom
 It is available on [https://cran.r-project.org/web/packages/statmod/index.html R-CRAN].
 - R package: IBGS (Iterated Blockwise Gibbs Sampler) \n
-IBGS is an MCMC search algorithm designed to find the best model in the high dimensional data given a model selection criterion such as AIC, BIC and so on. 
-Moreover, it can identify those most important covariates having the significant influence on the response. 
+IBGS is an MCMC search algorithm to find the best model in the high dimensional data given a model selection criterion such as AIC, BIC and so on. 
+Also, it can identify those most important covariates having the significant influence on the response. 
 It is available on [https://github.com/lizhongc/IBGS Github].
 
 == Supervision
