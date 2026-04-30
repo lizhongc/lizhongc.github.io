@@ -155,7 +155,7 @@ def standardconf():
   [doctitle]
   # used at top of document.
   <div id="toptitle">
-  <h1>|</h1>
+  <h1>|<img src="lizhong.png" alt="alt text" width="85px" height="28px" /></h1>
   
   [subtitle]
   <div id="subtitle">|</div>
@@ -254,6 +254,8 @@ def standardconf():
   
   [lastupdated]
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <span id="busuanzi_container_site_pv"> Total visit counts:<span id="busuanzi_value_site_pv"></span>.</span>
 
   [sourcelink]
   (<a href="|">source</a>)
