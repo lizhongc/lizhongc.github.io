@@ -366,3 +366,24 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+/* Title image (lizhong.png) supplied via CSS so it survives jemdoc regeneration. */
+div#toptitle h1::after {
+    content: "";
+    display: inline-block;
+    width: 85px;
+    height: 28px;
+    margin-left: 0.4em;
+    background-image: url("lizhong.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+}
+
+/* Stack the header photo/text card on small screens. */
+@media (max-width: 600px) {
+    table.imgtable, table.imgtable td { display: block; width: 100%; }
+    table.imgtable td img { display: block; margin-bottom: 0.6em; }
+    #layout-content { padding-left: 0.6em; padding-right: 0.6em; }
+}

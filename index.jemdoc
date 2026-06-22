@@ -1,11 +1,11 @@
-# jemdoc: {index.html}
+# jemdoc: {index.html}, title{Lizhong Chen (陈力仲)}
 = Lizhong Chen 
 
 ~~~
 {}{img_left}{2024new.jpg}{alt text}{130px}{130px}{}
 Lizhong Chen \n
 Research Officer \n 
-[https://www.wehi.edu.au/research/research-fields/bioinformatics Bioinformatics & Computationl Biology Division] \n
+[https://www.wehi.edu.au/research/research-fields/bioinformatics Bioinformatics & Computational Biology Division] \n
 [https://www.wehi.edu.au/ Walter and Eliza Hall Institute of Medical Research (WEHI)]  \n
 Contact: [chen.l@wehi.edu.au Email], 
 [https://scholar.google.com.au/citations?user=dqb0ajUAAAAJ&hl=en Google Scholar], 
@@ -14,7 +14,7 @@ Contact: [chen.l@wehi.edu.au Email],
 ~~~
 
 == About me
-I am a research officer in [https://www.wehi.edu.au/people/gordon-smyth Prof. Gordon K Smyth] lab team at Bioinformatics & Computationl Biology Division, WEHI. 
+I am a research officer in [https://www.wehi.edu.au/people/gordon-smyth Prof. Gordon K Smyth] lab team at Bioinformatics & Computational Biology Division, WEHI. 
 My major work is to develop new statistical and computational methods for the analysis of the sequencing data. 
 Previously, I completed my PhD degree in Statistics from the University of Melbourne under the supervision of [https://findanexpert.unimelb.edu.au/profile/144561-guoqi-qian A/Prof. Guoqi Qian], Prof. Yuriy Kuleshov and [https://findanexpert.unimelb.edu.au/profile/795463-tingjin-chu Dr. Tingjin Chu] in Jul. 2022,
 where I focused on the feature or variable selection and model averaging for generalized linear models. 
@@ -27,41 +27,41 @@ where my main interest was homotopy theory of spheres and Lie groups.
 - B.S. in Mathematics, Yuanpei College, Peking University, Beijing, China, Sep. 2009 - Jul. 2013
 
 == Research Interests 
-- Generalized linear models (GLM), quasi-likelihood and deviacne statistics   
+- Generalized linear models (GLM), quasi-likelihood and deviance statistics
 - Feature selection or variable selection method and model averaging
-- Empirical bayes, prior information estimation and mulitple hypothesis tests
+- Empirical bayes, prior information estimation and multiple hypothesis tests
 - Differential analysis of gene expression and applications
-- Spatial transcripts and image analysis
+- Spatial transcriptomics and image analysis
 
 == Publications 
 - Journal articles
--- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /Nucleic Acids Research,/ 54(8) 2026. [https://doi.org/10.1093/nar/gkag360 doi]
--- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with limma and edgeR. /Nucleic Acids Research,/ 53(22) 2025. [https://doi.org/10.1093/nar/gkaf1305 doi] \n
--- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 doi]\n
--- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR v4, /NAR Genomics and Bioinformatics,/ 6(4), 2024. [https://doi.org/10.1093/nargab/lqae151 doi] 
--- Qian G\#, *Chen L*\#, Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 2022. [https://doi.org/10.3390/rs14225872 doi] \n
+-- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /Nucleic Acids Research,/ 54(8), 2026. [https://doi.org/10.1093/nar/gkag360 \[DOI\]]
+-- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with limma and edgeR. /Nucleic Acids Research,/ 53(22), 2025. [https://doi.org/10.1093/nar/gkaf1305 \[DOI\]] \n
+-- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets.  /Nucleic Acids Research,/ 53(2), 2025. [https://doi.org/10.1093/nar/gkaf018 \[DOI\]]\n
+-- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR v4, /NAR Genomics and Bioinformatics,/ 6(4), 2024. [https://doi.org/10.1093/nargab/lqae151 \[DOI\]] 
+-- Qian G\#, *Chen L*\#, Kuleshov Y. Improving Methodology for Tropical Cyclone Seasonal Forecasting in the Australian and the South Pacific Ocean Regions by Selecting and Averaging Models via Metropolis--Gibbs Sampling, /Remote Sensing,/ 14(22), 2022. [https://doi.org/10.3390/rs14225872 \[DOI\]] \n
 - Preprint
--- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.08.28.672983 doi]
--- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.04.07.647659 doi] \n
--- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR 4.0. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.06.25.600555 doi] \n
--- Wang J, *Chen L*, Thijssen R, Phipson B, Speed TP. GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and biological effects. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.03.20.586030 doi] \n
--- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 doi]\n
+-- Wang J, *Chen L*, Brown DV, Chiu C, Speed TP. CMDdemux: an efficient single cell demultiplexing method. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.08.28.672983 \[DOI\]]
+-- Baldoni PL\#, *Chen L*\#, Li M, Chen Y, Smyth GK. Dividing out quantification uncertainty enables assessment of differential transcript usage with diffSplice. /bioRxiv,/ 2025. [https://doi.org/10.1101/2025.04.07.647659 \[DOI\]] \n
+-- Baldoni PL, *Chen L*, Smyth GK. Faster and more accurate assessment of differential transcript expression with Gibbs sampling and edgeR 4.0. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.06.25.600555 \[DOI\]] \n
+-- Wang J, *Chen L*, Thijssen R, Phipson B, Speed TP. GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and biological effects. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.03.20.586030 \[DOI\]] \n
+-- Chen Y, *Chen L*, Lun AT, Baldoni PL, Smyth GK. edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets. /bioRxiv,/ 2024. [https://doi.org/10.1101/2024.01.21.576131 \[DOI\]]\n
 - Thesis
 -- (Ph.D.) Model selection and averaging by Gibbs sampler with a tropical cyclone seasonal forecasting application, Feb. 2022. [http://hdl.handle.net/11343/311691 \[Minerva Access\]]
 -- (M.S.) A Report on Computations of Cohomology Rings and Homotopy Groups of Lie Groups (in Chinese), Jun. 2016. [master_thesis.pdf \[PDF\]]
 - \# contribute equally
 
 == Presentations 
-- edgeR quasi-likelihood: correcting deviance for bias, 2022, WEHI Bioinformatics Divsion seminar
-- Extending edgeR for small counts and large samples, 2023, WEHI Bioinformatics Divsion seminar
-- Applying edgeR for alternative splicing analysis, 2024, WEHI Bioinformatics Divsion seminar [20240423_Division_presentation.pdf \[Slides\]]
+- edgeR quasi-likelihood: correcting deviance for bias, 2022, WEHI Bioinformatics Division seminar
+- Extending edgeR for small counts and large samples, 2023, WEHI Bioinformatics Division seminar
+- Applying edgeR for alternative splicing analysis, 2024, WEHI Bioinformatics Division seminar [20240423_Division_presentation.pdf \[Slides\]]
 - edgeRv4 with expanded functionality and improved support for small counts and larger datasets, 2025, EuroBioC2025 [20250917_EuroBioc.pdf \[Slides\]]
-- Analyzing paired count data using edgeR, 2025, WEHI Bioinformatics Divsion seminar [20250930_Division_presentation.pdf \[Slides\]]
+- Analyzing paired count data using edgeR, 2025, WEHI Bioinformatics Division seminar [20250930_Division_presentation.pdf \[Slides\]]
 
 == Softwares
 - R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
 edgeR is a Bioconductor R package to perform differential expression analysis for the sequencing data like RNA-seq, ChIP-seq and ATAC-seq. 
-In edgeR v4, we develop the new quasi-likelihood method based on the quadratic mean-variance relationship that we can isolate the biological and technical variation.
+In edgeR v4, we develop the new quasi-likelihood method based on the quadratic mean-variance relationship so that we can isolate the biological and technical variation.
 We improve the quasi-dispersion estimation by the adjusted deviance statistics and support lowly expressed counts data.
 It is available on [https://bioconductor.org/packages/release/bioc/html/edgeR.html R-Bioconductor].
 - R package: limma (Linear Models for Microarray and Omics Data) \n 
@@ -72,16 +72,24 @@ It is available on [https://bioconductor.org/packages/release/bioc/html/limma.ht
 - R package: statmod (statmod: Statistical Modeling) \n 
 statmod is a CRAN R package that is a collection of statistical tools. 
 We introduce a new function expectedDeviance to provide an approximation to the expected unit deviance and degree of freedom for Poisson, Binomial, and Negative Binomial distribution, 
-which corrects the bias of chi-square distribution approximation of 1 degree of freedom
+which corrects the bias of chi-square distribution approximation of 1 degree of freedom.
 It is available on [https://cran.r-project.org/web/packages/statmod/index.html R-CRAN].
 - R package: IBGS (Iterated Blockwise Gibbs Sampler) \n
-IBGS is an MCMC search algorithm to find the best model in the high dimensional data given a model selection criterion such as AIC, BIC and so on. 
-Also, it can identify those most important covariates having the significant influence on the response. 
+IBGS performs variable selection for generalized linear models and the Cox proportional-hazards model when the number of predictors is very large. 
+The sampler is implemented in C with parallel block screening through OpenMP, and returns a small set of high-scoring models together with marginal inclusion probabilities and model-averaged predictions.
 It is available on [https://github.com/lizhongc/IBGS Github].
+- R package: fastLISA (Fast Local Indicators of Spatial Association) \n
+fastLISA computes seven families of LISA statistics with a plain-C backend, optional OpenMP multi-threading, and a modern xoshiro256++ random number generator for permutation-based inference. 
+It accepts any spdep listw spatial weights object — including custom and non-contiguity (e.g. distance-decay) weights — and returns compact, inspectable, spdep-compatible matrices.
+It is available on [https://github.com/lizhongc/fastLISA Github].
+- R package: DGQ (Dynamic Geometric Quantiles for Multivariate Time Series) \n
+DGQ computes a quantile-like trajectory for a collection of multivariate time series. 
+The main function, DGQ(), returns both a constrained empirical DGQ that is an observed series and an unconstrained time-wise geometric quantile.
+It is available on [https://github.com/lizhongc/DGQ Github].
 
 == Supervision
-- Hasini Herath, PhD (Medical Biology), University of Melbourne, co-supervised with Pedro Baldoni and Gordon Smyth
-- Lei Qin, PhD (Medical Biology), University of Melbourne, co-supervised with Yunshun Chen and Gordon Smyth
-- Xueming Li, PhD (Mathematics & Statistics), University of Melbourne, co-supervised with Guoqi Qian
-- Shama Deb, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Gordon Smyth
-- Yuchen Liu, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Tingjin Chu
+- Hasini Herath, PhD (Medical Biology), University of Melbourne, co-supervised with Pedro Baldoni and Gordon Smyth, 2026-
+- Lei Qin, PhD (Medical Biology), University of Melbourne, co-supervised with Yunshun Chen and Gordon Smyth, 2024-
+- Xueming Li, PhD (Mathematics & Statistics), University of Melbourne, co-supervised with Guoqi Qian, 2025-
+- Shama Deb, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Gordon Smyth, 2025-2026
+- Yuchen Liu, Master (Mathematics & Statistics), University of Melbourne, co-supervised with Tingjin Chu, 2025-2026
