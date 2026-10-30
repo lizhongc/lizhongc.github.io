@@ -57,6 +57,7 @@ where my main interest was homotopy theory of spheres and Lie groups.
 - Applying edgeR for alternative splicing analysis, 2024, WEHI Bioinformatics Division seminar [20240423_Division_presentation.pdf \[Slides\]]
 - edgeRv4 with expanded functionality and improved support for small counts and larger datasets, 2025, EuroBioC2025 [20250917_EuroBioc.pdf \[Slides\]]
 - Analyzing paired count data using edgeR, 2025, WEHI Bioinformatics Division seminar [20250930_Division_presentation.pdf \[Slides\]]
+- A C backend for limma and edgeR project by AI tools, 2026, WEHI Bioinformatics Division seminar
 
 == Softwares
 - R package: edgeR (Empirical Analysis of Digital Gene Expression Data in R) \n
@@ -77,11 +78,11 @@ It is available on [https://cran.r-project.org/web/packages/statmod/index.html R
 - R package: IBGS (Iterated Blockwise Gibbs Sampler) \n
 IBGS performs variable selection for generalized linear models and the Cox proportional-hazards model when the number of predictors is very large. 
 The sampler is implemented in C with parallel block screening through OpenMP, and returns a small set of high-scoring models together with marginal inclusion probabilities and model-averaged predictions.
-It is available on [https://github.com/lizhongc/IBGS Github].
+It is available on [https://cran.r-project.org/web/packages/IBGS/index.html R-CRAN].
 - R package: fastLISA (Fast Local Indicators of Spatial Association) \n
 fastLISA computes seven families of LISA statistics with a plain-C backend, optional OpenMP multi-threading, and a modern xoshiro256++ random number generator for permutation-based inference. 
 It accepts any spdep listw spatial weights object — including custom and non-contiguity (e.g. distance-decay) weights — and returns compact, inspectable, spdep-compatible matrices.
-It is available on [https://github.com/lizhongc/fastLISA Github].
+It is available on [https://cran.r-project.org/web/packages/fastLISA/index.html R-CRAN].
 - R package: DGQ (Dynamic Geometric Quantiles for Multivariate Time Series) \n
 DGQ computes a quantile-like trajectory for a collection of multivariate time series. 
 The main function, DGQ(), returns both a constrained empirical DGQ that is an observed series and an unconstrained time-wise geometric quantile.

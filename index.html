@@ -104,6 +104,8 @@ where my main interest was homotopy theory of spheres and Lie groups.</p>
 </li>
 <li><p>Analyzing paired count data using edgeR, 2025, WEHI Bioinformatics Division seminar <a href="20250930_Division_presentation.pdf">[Slides]</a></p>
 </li>
+<li><p>A C backend for limma and edgeR project by AI tools, 2026, WEHI Bioinformatics Division seminar</p>
+</li>
 </ul>
 <h2>Softwares</h2>
 <ul>
@@ -128,12 +130,12 @@ It is available on <a href="https://cran.r-project.org/web/packages/statmod/inde
 <li><p>R package: IBGS (Iterated Blockwise Gibbs Sampler) <br />
 IBGS performs variable selection for generalized linear models and the Cox proportional-hazards model when the number of predictors is very large. 
 The sampler is implemented in C with parallel block screening through OpenMP, and returns a small set of high-scoring models together with marginal inclusion probabilities and model-averaged predictions.
-It is available on <a href="https://github.com/lizhongc/IBGS">Github</a>.</p>
+It is available on <a href="https://cran.r-project.org/web/packages/IBGS/index.html">R-CRAN</a>.</p>
 </li>
 <li><p>R package: fastLISA (Fast Local Indicators of Spatial Association) <br />
 fastLISA computes seven families of LISA statistics with a plain-C backend, optional OpenMP multi-threading, and a modern xoshiro256<tt></tt> random number generator for permutation-based inference. 
 It accepts any spdep listw spatial weights object — including custom and non-contiguity (e.g. distance-decay) weights — and returns compact, inspectable, spdep-compatible matrices.
-It is available on <a href="https://github.com/lizhongc/fastLISA">Github</a>.</p>
+It is available on <a href="https://cran.r-project.org/web/packages/fastLISA/index.html">R-CRAN</a>.</p>
 </li>
 <li><p>R package: DGQ (Dynamic Geometric Quantiles for Multivariate Time Series) <br />
 DGQ computes a quantile-like trajectory for a collection of multivariate time series. 
@@ -156,9 +158,15 @@ It is available on <a href="https://github.com/lizhongc/DGQ">Github</a>.</p>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2026-06-22 17:09:43 AEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv"> Total visit counts:<span id="busuanzi_value_site_pv"></span>.</span>
+Page generated 2026-10-31 10:19:38 AEDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+<script data-goatcounter="https://lizhongc.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<span id="gc_container" style="display:none"> Total visit counts: <span id="gc_total"></span>.</span>
+<script>
+  fetch('https://lizhongc.goatcounter.com/counter/TOTAL.json')
+    .then(function (r) { return r.json(); })
+    .then(function (d) { document.getElementById('gc_total').textContent = d.count; document.getElementById('gc_container').style.display = ''; })
+    .catch(function () {});
+</script>
 </div>
 </div>
 </div>

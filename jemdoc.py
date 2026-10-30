@@ -254,8 +254,14 @@ def standardconf():
   
   [lastupdated]
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <span id="busuanzi_container_site_pv"> Total visit counts:<span id="busuanzi_value_site_pv"></span>.</span>
+  <script data-goatcounter="https://lizhongc.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  <span id="gc_container" style="display:none"> Total visit counts: <span id="gc_total"></span>.</span>
+  <script>
+    fetch('https://lizhongc.goatcounter.com/counter/TOTAL.json')
+      .then(function (r) { return r.json(); })
+      .then(function (d) { document.getElementById('gc_total').textContent = d.count; document.getElementById('gc_container').style.display = ''; })
+      .catch(function () {});
+  </script>
 
   [sourcelink]
   (<a href="|">source</a>)
